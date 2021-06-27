@@ -29,7 +29,7 @@ header h1 {
     cursor: pointer;
 }
 
-header h6 {
+.movie-logon {
     color: #fff;
     margin: 0;
     text-align: center;
